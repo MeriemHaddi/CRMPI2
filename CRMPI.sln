@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMPI", "CRMPI\CRMPI.csproj", "{8F736712-0583-49F7-869F-D10D2D264679}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataCrmPi", "DataCrmPi\DataCrmPi.csproj", "{AFEDB112-B957-4EC3-AF04-AB490ABE6564}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F736712-0583-49F7-869F-D10D2D264679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F736712-0583-49F7-869F-D10D2D264679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F736712-0583-49F7-869F-D10D2D264679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F736712-0583-49F7-869F-D10D2D264679}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFEDB112-B957-4EC3-AF04-AB490ABE6564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFEDB112-B957-4EC3-AF04-AB490ABE6564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFEDB112-B957-4EC3-AF04-AB490ABE6564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFEDB112-B957-4EC3-AF04-AB490ABE6564}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E798BEEA-797B-4B3F-8003-A259B6FBBB56}
+	EndGlobalSection
+EndGlobal
